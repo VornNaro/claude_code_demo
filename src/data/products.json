@@ -13,7 +13,7 @@
       "Battery": "5000 mAh",
       "Camera": "200MP + 50MP + 12MP + 10MP"
     },
-    "images": ["/products/s24-ultra.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/2501/gallery/us-galaxy-s25-s938-536277-sm-s938uakaxaa-544888210?$720_576_PNG$"],
     "colors": [
       { "name": "Titanium Black", "hex": "#2B2B2B" },
       { "name": "Titanium Gray", "hex": "#8E8E8E" },
@@ -40,7 +40,7 @@
       "Battery": "4900 mAh",
       "Camera": "50MP + 12MP + 10MP"
     },
-    "images": ["/products/s24-plus.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731udbaxaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731udbaxaa-548773032?$720_576_PNG$"],
     "colors": [
       { "name": "Onyx Black", "hex": "#1A1A1A" },
       { "name": "Marble Gray", "hex": "#A0A0A0" },
@@ -66,7 +66,7 @@
       "Battery": "4000 mAh",
       "Camera": "50MP + 12MP + 10MP"
     },
-    "images": ["/products/s24.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm5s931ulbexaa/gallery/us-galaxy-s25-s931-sm5s931ulbexaa-549766029?$720_576_PNG$"],
     "colors": [
       { "name": "Onyx Black", "hex": "#1A1A1A" },
       { "name": "Marble Gray", "hex": "#A0A0A0" },
@@ -93,7 +93,7 @@
       "Battery": "4500 mAh",
       "Camera": "50MP + 12MP + 8MP"
     },
-    "images": ["/products/s23-fe.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731udbaxaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731udbaxaa-548773032?$720_576_PNG$"],
     "colors": [
       { "name": "Mint", "hex": "#A8D8C8" },
       { "name": "Cream", "hex": "#F5E6C8" },
@@ -119,7 +119,7 @@
       "Battery": "4400 mAh",
       "Camera": "50MP + 12MP + 10MP"
     },
-    "images": ["/products/z-fold5.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-fold7-f966-sm-f966ulgaxaa-547827981?$720_576_PNG$"],
     "colors": [
       { "name": "Phantom Black", "hex": "#1A1A1A" },
       { "name": "Icy Blue", "hex": "#B5D4E8" },
@@ -146,7 +146,7 @@
       "Battery": "3700 mAh",
       "Camera": "12MP + 12MP"
     },
-    "images": ["/products/z-flip5.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-zflip7-f766-sm-f766udbaxaa-547889008?$720_576_PNG$"],
     "colors": [
       { "name": "Mint", "hex": "#A8D8C8" },
       { "name": "Graphite", "hex": "#4A4A4A" },
@@ -173,7 +173,7 @@
       "Battery": "5000 mAh",
       "Camera": "50MP + 12MP + 5MP"
     },
-    "images": ["/products/a54.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm5s931ulbexaa/gallery/us-galaxy-s25-s931-sm5s931ulbexaa-549766029?$720_576_PNG$"],
     "colors": [
       { "name": "Awesome Graphite", "hex": "#3A3A3A" },
       { "name": "Awesome Lime", "hex": "#C8E45A" },
@@ -199,7 +199,7 @@
       "Battery": "5000 mAh",
       "Camera": "48MP + 8MP + 5MP"
     },
-    "images": ["/products/a34.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm5s931ulbexaa/gallery/us-galaxy-s25-s931-sm5s931ulbexaa-549766029?$720_576_PNG$"],
     "colors": [
       { "name": "Awesome Graphite", "hex": "#3A3A3A" },
       { "name": "Awesome Lime", "hex": "#C8E45A" },
@@ -225,7 +225,7 @@
       "Battery": "5000 mAh",
       "Camera": "50MP + 5MP + 2MP"
     },
-    "images": ["/products/a15.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s731udbaxaa/gallery/us-galaxy-s25-fe-sm-s731-sm-s731udbaxaa-548773032?$720_576_PNG$"],
     "colors": [
       { "name": "Blue Black", "hex": "#1A2A3A" },
       { "name": "Light Blue", "hex": "#A8C8E8" },
@@ -251,7 +251,7 @@
       "Battery": "11200 mAh",
       "S Pen": "Included"
     },
-    "images": ["/products/tab-s9-ultra.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-x930nzaaxar/gallery/us-galaxy-tab-s11-ultra-sm-x930-sm-x930nzaaxar-548666703?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite", "hex": "#4A4A4A" },
       { "name": "Beige", "hex": "#D4C4A8" }
@@ -276,7 +276,7 @@
       "Battery": "10090 mAh",
       "S Pen": "Included"
     },
-    "images": ["/products/tab-s9-plus.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzsaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzsaxar-548667145?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite", "hex": "#4A4A4A" },
       { "name": "Beige", "hex": "#D4C4A8" }
@@ -301,7 +301,7 @@
       "Battery": "8400 mAh",
       "S Pen": "Included"
     },
-    "images": ["/products/tab-s9.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzsaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzsaxar-548667145?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite", "hex": "#4A4A4A" },
       { "name": "Beige", "hex": "#D4C4A8" }
@@ -327,7 +327,7 @@
       "Battery": "8000 mAh",
       "S Pen": "Included"
     },
-    "images": ["/products/tab-s9-fe.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzsaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzsaxar-548667145?$720_576_PNG$"],
     "colors": [
       { "name": "Gray", "hex": "#6A6A6A" },
       { "name": "Mint", "hex": "#A8D8C8" },
@@ -353,7 +353,7 @@
       "Battery": "7040 mAh",
       "S Pen": "Not included"
     },
-    "images": ["/products/tab-a9-plus.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzsaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzsaxar-548667145?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite", "hex": "#4A4A4A" },
       { "name": "Silver", "hex": "#C0C0C0" },
@@ -379,7 +379,7 @@
       "Battery": "7040 mAh",
       "S Pen": "Included"
     },
-    "images": ["/products/tab-s6-lite.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-x730nzsaxar/gallery/us-galaxy-tab-s11-sm-x730-sm-x730nzsaxar-548667145?$720_576_PNG$"],
     "colors": [
       { "name": "Oxford Gray", "hex": "#5A5A6A" },
       { "name": "Mint", "hex": "#A8D8C8" },
@@ -405,7 +405,7 @@
       "Refresh Rate": "120Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/qn900d-85.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn85qn90fafxza/gallery/us-qled-qn90f-qn85qn90fafxza-550561148?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite Black", "hex": "#2A2A2A" }
     ],
@@ -429,7 +429,7 @@
       "Refresh Rate": "120Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/qn90d-75.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn75qef1afxza/gallery/us-qled-qef1-548500-qn75qef1afxza-547033885?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite Black", "hex": "#2A2A2A" }
     ],
@@ -453,7 +453,7 @@
       "Refresh Rate": "120Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/qn85d-65.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn75qef1afxza/gallery/us-qled-qef1-548500-qn75qef1afxza-547033885?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite Black", "hex": "#2A2A2A" }
     ],
@@ -477,7 +477,7 @@
       "Refresh Rate": "120Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/s90d-65.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn85qn90fafxza/gallery/us-qled-qn90f-qn85qn90fafxza-550561148?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite Black", "hex": "#2A2A2A" }
     ],
@@ -502,7 +502,7 @@
       "Refresh Rate": "60Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/cu8000-55.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn100qn80ffxza/gallery/us-qled-qn80f-qn100qn80ffxza-548997308?$720_576_PNG$"],
     "colors": [
       { "name": "Black", "hex": "#1A1A1A" }
     ],
@@ -527,7 +527,7 @@
       "Refresh Rate": "60Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/cu7000-50.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn100qn80ffxza/gallery/us-qled-qn80f-qn100qn80ffxza-548997308?$720_576_PNG$"],
     "colors": [
       { "name": "Titan Gray", "hex": "#6A6A6A" }
     ],
@@ -551,7 +551,7 @@
       "Refresh Rate": "120Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/frame-55.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn65ls03fwfxza/gallery/us-the-frame-ls03fw-qn65ls03fwfxza-546242603?$720_576_PNG$"],
     "colors": [
       { "name": "Charcoal Black", "hex": "#2A2A2A" }
     ],
@@ -575,7 +575,7 @@
       "Refresh Rate": "60Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/frame-32.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn65ls03fwfxza/gallery/us-the-frame-ls03fw-qn65ls03fwfxza-546242603?$720_576_PNG$"],
     "colors": [
       { "name": "Charcoal Black", "hex": "#2A2A2A" }
     ],
@@ -600,7 +600,7 @@
       "Battery": "425 mAh",
       "Water Resistance": "5ATM + IP68"
     },
-    "images": ["/products/watch6-classic.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l505-sm-l505uzkaxaa-547908350?$720_576_PNG$"],
     "colors": [
       { "name": "Black", "hex": "#1A1A1A" },
       { "name": "Silver", "hex": "#C0C0C0" }
@@ -625,7 +625,7 @@
       "Battery": "425 mAh",
       "Water Resistance": "5ATM + IP68"
     },
-    "images": ["/products/watch6.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l505-sm-l505uzkaxaa-547908350?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite", "hex": "#4A4A4A" },
       { "name": "Gold", "hex": "#D4A860" },
@@ -651,7 +651,7 @@
       "Battery": "590 mAh",
       "Water Resistance": "10ATM + IP68"
     },
-    "images": ["/products/watch-ultra.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch-ultra-2025-l705-sm-l705uzb1xaa-547907812?$720_576_PNG$"],
     "colors": [
       { "name": "Titanium Gray", "hex": "#8E8E8E" },
       { "name": "Titanium White", "hex": "#E8E8E8" },
@@ -677,7 +677,7 @@
       "Battery": "425 mAh",
       "Water Resistance": "5ATM + IP68"
     },
-    "images": ["/products/watch7.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l505-sm-l505uzkaxaa-547908350?$720_576_PNG$"],
     "colors": [
       { "name": "Green", "hex": "#6A8E6A" },
       { "name": "Cream", "hex": "#F5E6C8" },
@@ -703,7 +703,7 @@
       "Battery": "247 mAh",
       "Water Resistance": "5ATM + IP68"
     },
-    "images": ["/products/watch-fe.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l505-sm-l505uzkaxaa-547908350?$720_576_PNG$"],
     "colors": [
       { "name": "Black", "hex": "#1A1A1A" },
       { "name": "Pink Gold", "hex": "#D4A0A0" },
@@ -729,7 +729,7 @@
       "Water Resistance": "10ATM + IP68",
       "Sizes": "5 - 13"
     },
-    "images": ["/products/galaxy-ring.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch-ultra-2025-l705-sm-l705uzb1xaa-547907812?$720_576_PNG$"],
     "colors": [
       { "name": "Titanium Black", "hex": "#2B2B2B" },
       { "name": "Titanium Silver", "hex": "#C0C0C0" },
@@ -755,7 +755,7 @@
       "Water Resistance": "IP57",
       "Codec": "SSC, AAC, SBC"
     },
-    "images": ["/products/buds3-pro.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/ep-qr530cjegus/gallery/us-galaxy-buds3-charging-case-ep-qr530cjegus-546365465?$720_576_PNG$"],
     "colors": [
       { "name": "Silver", "hex": "#C0C0C0" },
       { "name": "White", "hex": "#F0F0F0" }
@@ -780,7 +780,7 @@
       "Water Resistance": "IP57",
       "Codec": "SSC, AAC, SBC"
     },
-    "images": ["/products/buds3.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/ep-qr530cjegus/gallery/us-galaxy-buds3-charging-case-ep-qr530cjegus-546365465?$720_576_PNG$"],
     "colors": [
       { "name": "Silver", "hex": "#C0C0C0" },
       { "name": "White", "hex": "#F0F0F0" }
@@ -806,7 +806,7 @@
       "Water Resistance": "IPX7",
       "Codec": "SSC HiFi, AAC, SBC"
     },
-    "images": ["/products/buds2-pro.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/ep-qr530cjegus/gallery/us-galaxy-buds3-charging-case-ep-qr530cjegus-546365465?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite", "hex": "#4A4A4A" },
       { "name": "White", "hex": "#F0F0F0" },
@@ -832,7 +832,7 @@
       "Water Resistance": "IPX2",
       "Codec": "SSC, AAC, SBC"
     },
-    "images": ["/products/buds-fe.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/ep-qr530cjegus/gallery/us-galaxy-buds3-charging-case-ep-qr530cjegus-546365465?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite", "hex": "#4A4A4A" },
       { "name": "White", "hex": "#F0F0F0" }
@@ -858,7 +858,7 @@
       "Water Resistance": "IPX2",
       "Codec": "SSC, AAC, SBC"
     },
-    "images": ["/products/buds-live.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/ep-qr530cjegus/gallery/us-galaxy-buds3-charging-case-ep-qr530cjegus-546365465?$720_576_PNG$"],
     "colors": [
       { "name": "Mystic Black", "hex": "#1A1A1A" },
       { "name": "Mystic White", "hex": "#F0F0F0" },
@@ -884,7 +884,7 @@
       "GPU": "NVIDIA GeForce RTX 4070",
       "Battery": "76 Wh"
     },
-    "images": ["/products/book4-ultra.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Moonstone Gray", "hex": "#8E8E9E" }
     ],
@@ -908,7 +908,7 @@
       "GPU": "Intel Arc Graphics",
       "Battery": "76 Wh"
     },
-    "images": ["/products/book4-pro-360.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Moonstone Gray", "hex": "#8E8E9E" }
     ],
@@ -932,7 +932,7 @@
       "GPU": "Intel Arc Graphics",
       "Battery": "76 Wh"
     },
-    "images": ["/products/book4-pro.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Moonstone Gray", "hex": "#8E8E9E" }
     ],
@@ -956,7 +956,7 @@
       "GPU": "Intel Iris Xe",
       "Battery": "54 Wh"
     },
-    "images": ["/products/book4.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Silver", "hex": "#C0C0C0" },
       { "name": "Gray", "hex": "#6A6A6A" }
@@ -982,7 +982,7 @@
       "GPU": "Intel Iris Xe",
       "Battery": "54 Wh"
     },
-    "images": ["/products/book4-360.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Silver", "hex": "#C0C0C0" },
       { "name": "Graphite", "hex": "#4A4A4A" }
@@ -1007,7 +1007,7 @@
       "GPU": "Qualcomm Adreno",
       "Battery": "42.3 Wh"
     },
-    "images": ["/products/book-go.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Silver", "hex": "#C0C0C0" }
     ],
@@ -1031,7 +1031,7 @@
       "GPU": "Intel UHD",
       "Battery": "62.5 Wh"
     },
-    "images": ["/products/chromebook-plus.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Silver", "hex": "#C0C0C0" }
     ],
@@ -1055,7 +1055,7 @@
       "Battery": "5000 mAh",
       "Camera": "200MP + 50MP + 12MP + 10MP"
     },
-    "images": ["/products/s24-ultra-512.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Titanium Black", "hex": "#2B2B2B" },
       { "name": "Titanium Gray", "hex": "#8E8E8E" },
@@ -1081,7 +1081,7 @@
       "Battery": "4400 mAh",
       "Camera": "50MP + 12MP + 10MP"
     },
-    "images": ["/products/z-fold5-512.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-z-fold7-f966-sm-f966ulgaxaa-547827981?$720_576_PNG$"],
     "colors": [
       { "name": "Phantom Black", "hex": "#1A1A1A" },
       { "name": "Cream", "hex": "#F5E6C8" }
@@ -1106,7 +1106,7 @@
       "Refresh Rate": "120Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/qn85d-55.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn75qef1afxza/gallery/us-qled-qef1-548500-qn75qef1afxza-547033885?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite Black", "hex": "#2A2A2A" }
     ],
@@ -1130,7 +1130,7 @@
       "Refresh Rate": "60Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/serif-55.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn65ls03fwfxza/gallery/us-the-frame-ls03fw-qn65ls03fwfxza-546242603?$720_576_PNG$"],
     "colors": [
       { "name": "Cloud White", "hex": "#E8E8E8" }
     ],
@@ -1155,7 +1155,7 @@
       "Battery": "10090 mAh",
       "S Pen": "Included"
     },
-    "images": ["/products/tab-s9-fe-plus.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-x930nzaaxar/gallery/us-galaxy-tab-s11-ultra-sm-x930-sm-x930nzaaxar-548666703?$720_576_PNG$"],
     "colors": [
       { "name": "Gray", "hex": "#6A6A6A" },
       { "name": "Mint", "hex": "#A8D8C8" },
@@ -1181,7 +1181,7 @@
       "GPU": "Intel Arc Graphics",
       "Battery": "63 Wh"
     },
-    "images": ["/products/book4-pro-14.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm-s938uakexaa/gallery/us-galaxy-s25-s938-536276-sm-s938uakexaa-548617104?$720_576_PNG$"],
     "colors": [
       { "name": "Moonstone Gray", "hex": "#8E8E9E" }
     ],
@@ -1205,7 +1205,7 @@
       "Battery": "425 mAh",
       "Water Resistance": "5ATM + IP68"
     },
-    "images": ["/products/watch6-classic-47.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l505-sm-l505uzkaxaa-547908350?$720_576_PNG$"],
     "colors": [
       { "name": "Black", "hex": "#1A1A1A" },
       { "name": "Silver", "hex": "#C0C0C0" }
@@ -1230,7 +1230,7 @@
       "Weight": "36.8g",
       "Connectivity": "Bluetooth 5.3"
     },
-    "images": ["/products/fit3.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/f2507/gallery/us-galaxy-watch8-classic-l505-sm-l505uzkaxaa-547908350?$720_576_PNG$"],
     "colors": [
       { "name": "Gray", "hex": "#6A6A6A" },
       { "name": "Pink Gold", "hex": "#D4A0A0" },
@@ -1256,7 +1256,7 @@
       "Refresh Rate": "120Hz",
       "Smart TV": "Tizen OS"
     },
-    "images": ["/products/s95d-77.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/qn85qn90fafxza/gallery/us-qled-qn90f-qn85qn90fafxza-550561148?$720_576_PNG$"],
     "colors": [
       { "name": "Graphite Black", "hex": "#2A2A2A" }
     ],
@@ -1280,7 +1280,7 @@
       "Battery": "5000 mAh",
       "Camera": "50MP + 8MP + 2MP"
     },
-    "images": ["/products/a25.jpg"],
+    "images": ["https://images.samsung.com/is/image/samsung/p6pim/us/sm5s931ulbexaa/gallery/us-galaxy-s25-s931-sm5s931ulbexaa-549766029?$720_576_PNG$"],
     "colors": [
       { "name": "Blue Black", "hex": "#1A2A3A" },
       { "name": "Light Blue", "hex": "#A8C8E8" },

@@ -55,7 +55,7 @@ export function ProductImage({
     lg: 140,
   };
 
-  if (error || !src || src.startsWith('/products/') && !src.startsWith('/products/icons/')) {
+  if (error || !src || (src.startsWith('/products/') && !src.startsWith('/products/icons/'))) {
     return (
       <div
         className={cn(

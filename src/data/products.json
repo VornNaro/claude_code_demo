@@ -1,0 +1,1295 @@
+[
+  {
+    "id": "galaxy-s24-ultra",
+    "name": "Galaxy S24 Ultra",
+    "category": "smartphones",
+    "price": 129999,
+    "description": "The ultimate Galaxy experience with built-in S Pen, titanium frame, and AI-powered camera.",
+    "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X, 3120x1440",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "12 GB",
+      "Storage": "256 GB",
+      "Battery": "5000 mAh",
+      "Camera": "200MP + 50MP + 12MP + 10MP"
+    },
+    "images": ["/products/s24-ultra.jpg"],
+    "colors": [
+      { "name": "Titanium Black", "hex": "#2B2B2B" },
+      { "name": "Titanium Gray", "hex": "#8E8E8E" },
+      { "name": "Titanium Violet", "hex": "#8B7DB6" },
+      { "name": "Titanium Yellow", "hex": "#E8D589" }
+    ],
+    "rating": 4.8,
+    "reviewCount": 2341,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "galaxy-s24-plus",
+    "name": "Galaxy S24+",
+    "category": "smartphones",
+    "price": 99999,
+    "description": "Big screen brilliance with Galaxy AI and a pro-grade camera system.",
+    "specs": {
+      "Display": "6.7\" Dynamic AMOLED 2X, 3120x1440",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "12 GB",
+      "Storage": "256 GB",
+      "Battery": "4900 mAh",
+      "Camera": "50MP + 12MP + 10MP"
+    },
+    "images": ["/products/s24-plus.jpg"],
+    "colors": [
+      { "name": "Onyx Black", "hex": "#1A1A1A" },
+      { "name": "Marble Gray", "hex": "#A0A0A0" },
+      { "name": "Cobalt Violet", "hex": "#7B68AE" }
+    ],
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-s24",
+    "name": "Galaxy S24",
+    "category": "smartphones",
+    "price": 79999,
+    "description": "Welcome to the era of Galaxy AI with a compact powerhouse phone.",
+    "specs": {
+      "Display": "6.2\" Dynamic AMOLED 2X, 2340x1080",
+      "Processor": "Exynos 2400",
+      "RAM": "8 GB",
+      "Storage": "128 GB",
+      "Battery": "4000 mAh",
+      "Camera": "50MP + 12MP + 10MP"
+    },
+    "images": ["/products/s24.jpg"],
+    "colors": [
+      { "name": "Onyx Black", "hex": "#1A1A1A" },
+      { "name": "Marble Gray", "hex": "#A0A0A0" },
+      { "name": "Amber Yellow", "hex": "#E8C35A" }
+    ],
+    "rating": 4.6,
+    "reviewCount": 3102,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-s23-fe",
+    "name": "Galaxy S23 FE",
+    "category": "smartphones",
+    "price": 59999,
+    "originalPrice": 69999,
+    "description": "Fan-favorite features at an accessible price point.",
+    "specs": {
+      "Display": "6.4\" Dynamic AMOLED 2X, 2340x1080",
+      "Processor": "Exynos 2200",
+      "RAM": "8 GB",
+      "Storage": "128 GB",
+      "Battery": "4500 mAh",
+      "Camera": "50MP + 12MP + 8MP"
+    },
+    "images": ["/products/s23-fe.jpg"],
+    "colors": [
+      { "name": "Mint", "hex": "#A8D8C8" },
+      { "name": "Cream", "hex": "#F5E6C8" },
+      { "name": "Graphite", "hex": "#4A4A4A" }
+    ],
+    "rating": 4.4,
+    "reviewCount": 1523,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-z-fold5",
+    "name": "Galaxy Z Fold5",
+    "category": "smartphones",
+    "price": 179999,
+    "description": "Unfold your world with the most powerful foldable smartphone.",
+    "specs": {
+      "Display": "7.6\" Dynamic AMOLED 2X (Main)",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "12 GB",
+      "Storage": "256 GB",
+      "Battery": "4400 mAh",
+      "Camera": "50MP + 12MP + 10MP"
+    },
+    "images": ["/products/z-fold5.jpg"],
+    "colors": [
+      { "name": "Phantom Black", "hex": "#1A1A1A" },
+      { "name": "Icy Blue", "hex": "#B5D4E8" },
+      { "name": "Cream", "hex": "#F5E6C8" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 987,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "galaxy-z-flip5",
+    "name": "Galaxy Z Flip5",
+    "category": "smartphones",
+    "price": 99999,
+    "originalPrice": 109999,
+    "description": "The iconic flip phone reinvented with a big Flex Window.",
+    "specs": {
+      "Display": "6.7\" Dynamic AMOLED 2X (Main)",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "8 GB",
+      "Storage": "256 GB",
+      "Battery": "3700 mAh",
+      "Camera": "12MP + 12MP"
+    },
+    "images": ["/products/z-flip5.jpg"],
+    "colors": [
+      { "name": "Mint", "hex": "#A8D8C8" },
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "Lavender", "hex": "#C4B5D4" }
+    ],
+    "rating": 4.4,
+    "reviewCount": 1654,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-a54",
+    "name": "Galaxy A54 5G",
+    "category": "smartphones",
+    "price": 44999,
+    "originalPrice": 49999,
+    "description": "Awesome 5G experience with a stunning display and versatile camera.",
+    "specs": {
+      "Display": "6.4\" Super AMOLED, 2340x1080",
+      "Processor": "Exynos 1380",
+      "RAM": "6 GB",
+      "Storage": "128 GB",
+      "Battery": "5000 mAh",
+      "Camera": "50MP + 12MP + 5MP"
+    },
+    "images": ["/products/a54.jpg"],
+    "colors": [
+      { "name": "Awesome Graphite", "hex": "#3A3A3A" },
+      { "name": "Awesome Lime", "hex": "#C8E45A" },
+      { "name": "Awesome Violet", "hex": "#9B7BB5" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 4521,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-a34",
+    "name": "Galaxy A34 5G",
+    "category": "smartphones",
+    "price": 34999,
+    "description": "Smooth scrolling, vivid display and all-day battery for everyday awesome.",
+    "specs": {
+      "Display": "6.6\" Super AMOLED, 2340x1080",
+      "Processor": "Dimensity 1080",
+      "RAM": "6 GB",
+      "Storage": "128 GB",
+      "Battery": "5000 mAh",
+      "Camera": "48MP + 8MP + 5MP"
+    },
+    "images": ["/products/a34.jpg"],
+    "colors": [
+      { "name": "Awesome Graphite", "hex": "#3A3A3A" },
+      { "name": "Awesome Lime", "hex": "#C8E45A" },
+      { "name": "Awesome Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.2,
+    "reviewCount": 2876,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-a15",
+    "name": "Galaxy A15 5G",
+    "category": "smartphones",
+    "price": 19999,
+    "description": "Essential 5G smartphone with a big display and long-lasting battery.",
+    "specs": {
+      "Display": "6.5\" Super AMOLED, 2340x1080",
+      "Processor": "Dimensity 6100+",
+      "RAM": "4 GB",
+      "Storage": "64 GB",
+      "Battery": "5000 mAh",
+      "Camera": "50MP + 5MP + 2MP"
+    },
+    "images": ["/products/a15.jpg"],
+    "colors": [
+      { "name": "Blue Black", "hex": "#1A2A3A" },
+      { "name": "Light Blue", "hex": "#A8C8E8" },
+      { "name": "Yellow", "hex": "#E8D860" }
+    ],
+    "rating": 4.0,
+    "reviewCount": 1987,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-tab-s9-ultra",
+    "name": "Galaxy Tab S9 Ultra",
+    "category": "tablets",
+    "price": 119999,
+    "description": "The biggest, most immersive Galaxy Tab with S Pen included.",
+    "specs": {
+      "Display": "14.6\" Dynamic AMOLED 2X, 2960x1848",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "12 GB",
+      "Storage": "256 GB",
+      "Battery": "11200 mAh",
+      "S Pen": "Included"
+    },
+    "images": ["/products/tab-s9-ultra.jpg"],
+    "colors": [
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "Beige", "hex": "#D4C4A8" }
+    ],
+    "rating": 4.7,
+    "reviewCount": 876,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "galaxy-tab-s9-plus",
+    "name": "Galaxy Tab S9+",
+    "category": "tablets",
+    "price": 99999,
+    "description": "Powerful performance meets stunning display in a sleek design.",
+    "specs": {
+      "Display": "12.4\" Dynamic AMOLED 2X, 2800x1752",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "12 GB",
+      "Storage": "256 GB",
+      "Battery": "10090 mAh",
+      "S Pen": "Included"
+    },
+    "images": ["/products/tab-s9-plus.jpg"],
+    "colors": [
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "Beige", "hex": "#D4C4A8" }
+    ],
+    "rating": 4.6,
+    "reviewCount": 654,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-tab-s9",
+    "name": "Galaxy Tab S9",
+    "category": "tablets",
+    "price": 79999,
+    "description": "Premium tablet experience in a compact form with S Pen.",
+    "specs": {
+      "Display": "11\" Dynamic AMOLED 2X, 2560x1600",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "8 GB",
+      "Storage": "128 GB",
+      "Battery": "8400 mAh",
+      "S Pen": "Included"
+    },
+    "images": ["/products/tab-s9.jpg"],
+    "colors": [
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "Beige", "hex": "#D4C4A8" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 1102,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-tab-s9-fe",
+    "name": "Galaxy Tab S9 FE",
+    "category": "tablets",
+    "price": 44999,
+    "originalPrice": 54999,
+    "description": "The fan edition tablet with S Pen and long-lasting battery.",
+    "specs": {
+      "Display": "10.9\" TFT LCD, 2304x1440",
+      "Processor": "Exynos 1380",
+      "RAM": "6 GB",
+      "Storage": "128 GB",
+      "Battery": "8000 mAh",
+      "S Pen": "Included"
+    },
+    "images": ["/products/tab-s9-fe.jpg"],
+    "colors": [
+      { "name": "Gray", "hex": "#6A6A6A" },
+      { "name": "Mint", "hex": "#A8D8C8" },
+      { "name": "Lavender", "hex": "#C4B5D4" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 2345,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-tab-a9-plus",
+    "name": "Galaxy Tab A9+",
+    "category": "tablets",
+    "price": 27999,
+    "description": "Your everyday tablet for entertainment and productivity.",
+    "specs": {
+      "Display": "11\" TFT LCD, 1920x1200",
+      "Processor": "Snapdragon 695",
+      "RAM": "4 GB",
+      "Storage": "64 GB",
+      "Battery": "7040 mAh",
+      "S Pen": "Not included"
+    },
+    "images": ["/products/tab-a9-plus.jpg"],
+    "colors": [
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "Silver", "hex": "#C0C0C0" },
+      { "name": "Navy", "hex": "#1A2A5A" }
+    ],
+    "rating": 4.1,
+    "reviewCount": 3456,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-tab-s6-lite",
+    "name": "Galaxy Tab S6 Lite (2024)",
+    "category": "tablets",
+    "price": 32999,
+    "description": "The perfect note-taking companion with S Pen included.",
+    "specs": {
+      "Display": "10.4\" TFT LCD, 2000x1200",
+      "Processor": "Exynos 1280",
+      "RAM": "4 GB",
+      "Storage": "64 GB",
+      "Battery": "7040 mAh",
+      "S Pen": "Included"
+    },
+    "images": ["/products/tab-s6-lite.jpg"],
+    "colors": [
+      { "name": "Oxford Gray", "hex": "#5A5A6A" },
+      { "name": "Mint", "hex": "#A8D8C8" },
+      { "name": "Chiffon Pink", "hex": "#E8C8D4" }
+    ],
+    "rating": 4.2,
+    "reviewCount": 5678,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "neo-qled-8k-85",
+    "name": "85\" Neo QLED 8K QN900D",
+    "category": "tvs",
+    "price": 749999,
+    "description": "The pinnacle of viewing with 8K AI upscaling and Infinity Screen.",
+    "specs": {
+      "Display": "85\" Neo QLED 8K",
+      "Resolution": "7680x4320",
+      "Processor": "NQ8 AI Gen 3",
+      "HDR": "HDR10+, Quantum HDR 64x",
+      "Refresh Rate": "120Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/qn900d-85.jpg"],
+    "colors": [
+      { "name": "Graphite Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.9,
+    "reviewCount": 234,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "neo-qled-4k-75",
+    "name": "75\" Neo QLED 4K QN90D",
+    "category": "tvs",
+    "price": 279999,
+    "description": "Brilliant 4K with Neo Quantum Processor and Anti-Glare screen.",
+    "specs": {
+      "Display": "75\" Neo QLED 4K",
+      "Resolution": "3840x2160",
+      "Processor": "NQ4 AI Gen 2",
+      "HDR": "HDR10+, Quantum HDR 32x",
+      "Refresh Rate": "120Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/qn90d-75.jpg"],
+    "colors": [
+      { "name": "Graphite Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.7,
+    "reviewCount": 567,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "neo-qled-4k-65",
+    "name": "65\" Neo QLED 4K QN85D",
+    "category": "tvs",
+    "price": 179999,
+    "description": "Stunning 4K clarity with AI upscaling in a sleek design.",
+    "specs": {
+      "Display": "65\" Neo QLED 4K",
+      "Resolution": "3840x2160",
+      "Processor": "NQ4 AI Gen 2",
+      "HDR": "HDR10+, Quantum HDR 24x",
+      "Refresh Rate": "120Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/qn85d-65.jpg"],
+    "colors": [
+      { "name": "Graphite Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.6,
+    "reviewCount": 891,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "oled-4k-65",
+    "name": "65\" OLED 4K S90D",
+    "category": "tvs",
+    "price": 219999,
+    "description": "Experience true blacks and infinite contrast with Samsung OLED.",
+    "specs": {
+      "Display": "65\" OLED 4K",
+      "Resolution": "3840x2160",
+      "Processor": "NQ4 AI Gen 2",
+      "HDR": "HDR10+, OLED HDR",
+      "Refresh Rate": "120Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/s90d-65.jpg"],
+    "colors": [
+      { "name": "Graphite Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.8,
+    "reviewCount": 432,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "crystal-uhd-55",
+    "name": "55\" Crystal UHD 4K CU8000",
+    "category": "tvs",
+    "price": 47999,
+    "originalPrice": 54999,
+    "description": "Crystal-clear 4K color at an incredible value.",
+    "specs": {
+      "Display": "55\" Crystal UHD 4K",
+      "Resolution": "3840x2160",
+      "Processor": "Crystal Processor 4K",
+      "HDR": "HDR10+",
+      "Refresh Rate": "60Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/cu8000-55.jpg"],
+    "colors": [
+      { "name": "Black", "hex": "#1A1A1A" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 3456,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "crystal-uhd-50",
+    "name": "50\" Crystal UHD 4K CU7000",
+    "category": "tvs",
+    "price": 32999,
+    "originalPrice": 37999,
+    "description": "Smart TV made smarter with 4K upscaling.",
+    "specs": {
+      "Display": "50\" Crystal UHD 4K",
+      "Resolution": "3840x2160",
+      "Processor": "Crystal Processor 4K",
+      "HDR": "HDR10+",
+      "Refresh Rate": "60Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/cu7000-50.jpg"],
+    "colors": [
+      { "name": "Titan Gray", "hex": "#6A6A6A" }
+    ],
+    "rating": 4.2,
+    "reviewCount": 5678,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "the-frame-55",
+    "name": "55\" The Frame QLED 4K",
+    "category": "tvs",
+    "price": 129999,
+    "description": "A TV that transforms into a work of art when you're not watching.",
+    "specs": {
+      "Display": "55\" QLED 4K",
+      "Resolution": "3840x2160",
+      "Processor": "Quantum Processor 4K",
+      "HDR": "HDR10+, Quantum HDR",
+      "Refresh Rate": "120Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/frame-55.jpg"],
+    "colors": [
+      { "name": "Charcoal Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 2345,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": true
+  },
+  {
+    "id": "the-frame-32",
+    "name": "32\" The Frame QLED FHD",
+    "category": "tvs",
+    "price": 59999,
+    "description": "The art-inspired TV in a compact size for any room.",
+    "specs": {
+      "Display": "32\" QLED FHD",
+      "Resolution": "1920x1080",
+      "Processor": "Quantum Processor Lite",
+      "HDR": "HDR10",
+      "Refresh Rate": "60Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/frame-32.jpg"],
+    "colors": [
+      { "name": "Charcoal Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 1876,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-watch6-classic",
+    "name": "Galaxy Watch6 Classic",
+    "category": "watches",
+    "price": 39999,
+    "originalPrice": 42999,
+    "description": "The classic rotating bezel returns with advanced health monitoring.",
+    "specs": {
+      "Display": "1.5\" Super AMOLED, 480x480",
+      "Processor": "Exynos W930",
+      "RAM": "2 GB",
+      "Storage": "16 GB",
+      "Battery": "425 mAh",
+      "Water Resistance": "5ATM + IP68"
+    },
+    "images": ["/products/watch6-classic.jpg"],
+    "colors": [
+      { "name": "Black", "hex": "#1A1A1A" },
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 1234,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-watch6",
+    "name": "Galaxy Watch6",
+    "category": "watches",
+    "price": 29999,
+    "description": "Sleek, lightweight smartwatch with personalized health insights.",
+    "specs": {
+      "Display": "1.5\" Super AMOLED, 480x480",
+      "Processor": "Exynos W930",
+      "RAM": "2 GB",
+      "Storage": "16 GB",
+      "Battery": "425 mAh",
+      "Water Resistance": "5ATM + IP68"
+    },
+    "images": ["/products/watch6.jpg"],
+    "colors": [
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "Gold", "hex": "#D4A860" },
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.4,
+    "reviewCount": 2345,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-watch-ultra",
+    "name": "Galaxy Watch Ultra",
+    "category": "watches",
+    "price": 64999,
+    "description": "The toughest Galaxy Watch for extreme conditions and ultimate performance.",
+    "specs": {
+      "Display": "1.47\" Super AMOLED, 480x480",
+      "Processor": "Exynos W1000",
+      "RAM": "2 GB",
+      "Storage": "32 GB",
+      "Battery": "590 mAh",
+      "Water Resistance": "10ATM + IP68"
+    },
+    "images": ["/products/watch-ultra.jpg"],
+    "colors": [
+      { "name": "Titanium Gray", "hex": "#8E8E8E" },
+      { "name": "Titanium White", "hex": "#E8E8E8" },
+      { "name": "Titanium Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.6,
+    "reviewCount": 567,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "galaxy-watch7",
+    "name": "Galaxy Watch7",
+    "category": "watches",
+    "price": 29999,
+    "description": "Next-gen health monitoring with Galaxy AI and a vibrant display.",
+    "specs": {
+      "Display": "1.5\" Super AMOLED, 480x480",
+      "Processor": "Exynos W1000",
+      "RAM": "2 GB",
+      "Storage": "32 GB",
+      "Battery": "425 mAh",
+      "Water Resistance": "5ATM + IP68"
+    },
+    "images": ["/products/watch7.jpg"],
+    "colors": [
+      { "name": "Green", "hex": "#6A8E6A" },
+      { "name": "Cream", "hex": "#F5E6C8" },
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 876,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-watch-fe",
+    "name": "Galaxy Watch FE",
+    "category": "watches",
+    "price": 19999,
+    "description": "Essential smartwatch features at a fan-friendly price.",
+    "specs": {
+      "Display": "1.2\" Super AMOLED, 396x396",
+      "Processor": "Exynos W920",
+      "RAM": "1.5 GB",
+      "Storage": "16 GB",
+      "Battery": "247 mAh",
+      "Water Resistance": "5ATM + IP68"
+    },
+    "images": ["/products/watch-fe.jpg"],
+    "colors": [
+      { "name": "Black", "hex": "#1A1A1A" },
+      { "name": "Pink Gold", "hex": "#D4A0A0" },
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.2,
+    "reviewCount": 1654,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-ring",
+    "name": "Galaxy Ring",
+    "category": "watches",
+    "price": 39999,
+    "description": "24/7 health tracking in a sleek, lightweight ring form factor.",
+    "specs": {
+      "Material": "Titanium Grade 5",
+      "Weight": "2.3g - 3.0g",
+      "Battery": "Up to 7 days",
+      "Sensors": "Heart rate, temperature, accelerometer",
+      "Water Resistance": "10ATM + IP68",
+      "Sizes": "5 - 13"
+    },
+    "images": ["/products/galaxy-ring.jpg"],
+    "colors": [
+      { "name": "Titanium Black", "hex": "#2B2B2B" },
+      { "name": "Titanium Silver", "hex": "#C0C0C0" },
+      { "name": "Titanium Gold", "hex": "#D4A860" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 432,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "galaxy-buds3-pro",
+    "name": "Galaxy Buds3 Pro",
+    "category": "earbuds",
+    "price": 24999,
+    "description": "Premium sound with AI-powered adaptive noise canceling and blade design.",
+    "specs": {
+      "Driver": "10.5mm dynamic + 6.1mm planar",
+      "ANC": "Adaptive AI-powered",
+      "Battery": "7hrs (buds) + 30hrs (case)",
+      "Connectivity": "Bluetooth 5.4",
+      "Water Resistance": "IP57",
+      "Codec": "SSC, AAC, SBC"
+    },
+    "images": ["/products/buds3-pro.jpg"],
+    "colors": [
+      { "name": "Silver", "hex": "#C0C0C0" },
+      { "name": "White", "hex": "#F0F0F0" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 876,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "galaxy-buds3",
+    "name": "Galaxy Buds3",
+    "category": "earbuds",
+    "price": 17999,
+    "description": "Open-type earbuds with immersive sound and comfortable fit.",
+    "specs": {
+      "Driver": "11mm dynamic",
+      "ANC": "Adaptive Active",
+      "Battery": "6hrs (buds) + 24hrs (case)",
+      "Connectivity": "Bluetooth 5.4",
+      "Water Resistance": "IP57",
+      "Codec": "SSC, AAC, SBC"
+    },
+    "images": ["/products/buds3.jpg"],
+    "colors": [
+      { "name": "Silver", "hex": "#C0C0C0" },
+      { "name": "White", "hex": "#F0F0F0" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 654,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-buds2-pro",
+    "name": "Galaxy Buds2 Pro",
+    "category": "earbuds",
+    "price": 17999,
+    "originalPrice": 22999,
+    "description": "Hi-Fi sound with intelligent ANC and 360 Audio.",
+    "specs": {
+      "Driver": "10mm + 5.3mm coaxial",
+      "ANC": "Intelligent Active",
+      "Battery": "5hrs (buds) + 18hrs (case)",
+      "Connectivity": "Bluetooth 5.3",
+      "Water Resistance": "IPX7",
+      "Codec": "SSC HiFi, AAC, SBC"
+    },
+    "images": ["/products/buds2-pro.jpg"],
+    "colors": [
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "White", "hex": "#F0F0F0" },
+      { "name": "Bora Purple", "hex": "#8B6AAE" }
+    ],
+    "rating": 4.4,
+    "reviewCount": 3456,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-buds-fe",
+    "name": "Galaxy Buds FE",
+    "category": "earbuds",
+    "price": 9999,
+    "description": "ANC earbuds with powerful bass at a fan-favorite price.",
+    "specs": {
+      "Driver": "6.5mm 1-way",
+      "ANC": "Active Noise Canceling",
+      "Battery": "6hrs (buds) + 21hrs (case)",
+      "Connectivity": "Bluetooth 5.2",
+      "Water Resistance": "IPX2",
+      "Codec": "SSC, AAC, SBC"
+    },
+    "images": ["/products/buds-fe.jpg"],
+    "colors": [
+      { "name": "Graphite", "hex": "#4A4A4A" },
+      { "name": "White", "hex": "#F0F0F0" }
+    ],
+    "rating": 4.2,
+    "reviewCount": 5432,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-buds-live",
+    "name": "Galaxy Buds Live",
+    "category": "earbuds",
+    "price": 7999,
+    "originalPrice": 9999,
+    "description": "Iconic bean-shaped earbuds with rich AKG sound.",
+    "specs": {
+      "Driver": "12mm",
+      "ANC": "Active Noise Canceling",
+      "Battery": "8hrs (buds) + 29hrs (case)",
+      "Connectivity": "Bluetooth 5.0",
+      "Water Resistance": "IPX2",
+      "Codec": "SSC, AAC, SBC"
+    },
+    "images": ["/products/buds-live.jpg"],
+    "colors": [
+      { "name": "Mystic Black", "hex": "#1A1A1A" },
+      { "name": "Mystic White", "hex": "#F0F0F0" },
+      { "name": "Mystic Bronze", "hex": "#C4956A" }
+    ],
+    "rating": 4.0,
+    "reviewCount": 8765,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-book4-ultra",
+    "name": "Galaxy Book4 Ultra",
+    "category": "laptops",
+    "price": 299999,
+    "description": "Ultimate performance with Intel Core Ultra and NVIDIA GeForce RTX.",
+    "specs": {
+      "Display": "16\" 3K AMOLED, 2880x1800, 120Hz",
+      "Processor": "Intel Core Ultra 9 185H",
+      "RAM": "32 GB",
+      "Storage": "1 TB SSD",
+      "GPU": "NVIDIA GeForce RTX 4070",
+      "Battery": "76 Wh"
+    },
+    "images": ["/products/book4-ultra.jpg"],
+    "colors": [
+      { "name": "Moonstone Gray", "hex": "#8E8E9E" }
+    ],
+    "rating": 4.7,
+    "reviewCount": 345,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": true
+  },
+  {
+    "id": "galaxy-book4-pro-360",
+    "name": "Galaxy Book4 Pro 360",
+    "category": "laptops",
+    "price": 179999,
+    "description": "2-in-1 convertible with S Pen support and AMOLED display.",
+    "specs": {
+      "Display": "16\" 3K AMOLED, 2880x1800, 120Hz",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": "16 GB",
+      "Storage": "512 GB SSD",
+      "GPU": "Intel Arc Graphics",
+      "Battery": "76 Wh"
+    },
+    "images": ["/products/book4-pro-360.jpg"],
+    "colors": [
+      { "name": "Moonstone Gray", "hex": "#8E8E9E" }
+    ],
+    "rating": 4.6,
+    "reviewCount": 234,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-book4-pro",
+    "name": "Galaxy Book4 Pro",
+    "category": "laptops",
+    "price": 149999,
+    "description": "Pro-grade performance in the thinnest Galaxy Book yet.",
+    "specs": {
+      "Display": "16\" 3K AMOLED, 2880x1800, 120Hz",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": "16 GB",
+      "Storage": "512 GB SSD",
+      "GPU": "Intel Arc Graphics",
+      "Battery": "76 Wh"
+    },
+    "images": ["/products/book4-pro.jpg"],
+    "colors": [
+      { "name": "Moonstone Gray", "hex": "#8E8E9E" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 567,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-book4",
+    "name": "Galaxy Book4",
+    "category": "laptops",
+    "price": 89999,
+    "description": "Everyday laptop with Intel Core processor and Full HD display.",
+    "specs": {
+      "Display": "15.6\" FHD, 1920x1080",
+      "Processor": "Intel Core i7-1355U",
+      "RAM": "16 GB",
+      "Storage": "512 GB SSD",
+      "GPU": "Intel Iris Xe",
+      "Battery": "54 Wh"
+    },
+    "images": ["/products/book4.jpg"],
+    "colors": [
+      { "name": "Silver", "hex": "#C0C0C0" },
+      { "name": "Gray", "hex": "#6A6A6A" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 1234,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-book4-360",
+    "name": "Galaxy Book4 360",
+    "category": "laptops",
+    "price": 79999,
+    "originalPrice": 89999,
+    "description": "Versatile 2-in-1 laptop with a 15.6\" FHD touchscreen.",
+    "specs": {
+      "Display": "15.6\" FHD AMOLED, 1920x1080",
+      "Processor": "Intel Core i7-1355U",
+      "RAM": "16 GB",
+      "Storage": "512 GB SSD",
+      "GPU": "Intel Iris Xe",
+      "Battery": "54 Wh"
+    },
+    "images": ["/products/book4-360.jpg"],
+    "colors": [
+      { "name": "Silver", "hex": "#C0C0C0" },
+      { "name": "Graphite", "hex": "#4A4A4A" }
+    ],
+    "rating": 4.2,
+    "reviewCount": 876,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-book-go",
+    "name": "Galaxy Book Go",
+    "category": "laptops",
+    "price": 34999,
+    "description": "Ultra-portable laptop with all-day battery for life on the go.",
+    "specs": {
+      "Display": "14\" FHD, 1920x1080",
+      "Processor": "Snapdragon 7c Gen 2",
+      "RAM": "4 GB",
+      "Storage": "128 GB eUFS",
+      "GPU": "Qualcomm Adreno",
+      "Battery": "42.3 Wh"
+    },
+    "images": ["/products/book-go.jpg"],
+    "colors": [
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 3.9,
+    "reviewCount": 2345,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-chromebook-plus",
+    "name": "Galaxy Chromebook Plus",
+    "category": "laptops",
+    "price": 69999,
+    "description": "The first Galaxy Chromebook with AI features built right in.",
+    "specs": {
+      "Display": "15.6\" FHD AMOLED, 1920x1080",
+      "Processor": "Intel Core i3-1315U",
+      "RAM": "8 GB",
+      "Storage": "256 GB SSD",
+      "GPU": "Intel UHD",
+      "Battery": "62.5 Wh"
+    },
+    "images": ["/products/chromebook-plus.jpg"],
+    "colors": [
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.1,
+    "reviewCount": 654,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-s24-ultra-512",
+    "name": "Galaxy S24 Ultra 512GB",
+    "category": "smartphones",
+    "price": 141999,
+    "description": "Maximum storage Galaxy S24 Ultra for power users and creators.",
+    "specs": {
+      "Display": "6.8\" Dynamic AMOLED 2X, 3120x1440",
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "12 GB",
+      "Storage": "512 GB",
+      "Battery": "5000 mAh",
+      "Camera": "200MP + 50MP + 12MP + 10MP"
+    },
+    "images": ["/products/s24-ultra-512.jpg"],
+    "colors": [
+      { "name": "Titanium Black", "hex": "#2B2B2B" },
+      { "name": "Titanium Gray", "hex": "#8E8E8E" },
+      { "name": "Titanium Violet", "hex": "#8B7DB6" }
+    ],
+    "rating": 4.8,
+    "reviewCount": 876,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-z-fold5-512",
+    "name": "Galaxy Z Fold5 512GB",
+    "category": "smartphones",
+    "price": 199999,
+    "description": "The ultimate foldable with maximum storage space.",
+    "specs": {
+      "Display": "7.6\" Dynamic AMOLED 2X (Main)",
+      "Processor": "Snapdragon 8 Gen 2",
+      "RAM": "12 GB",
+      "Storage": "512 GB",
+      "Battery": "4400 mAh",
+      "Camera": "50MP + 12MP + 10MP"
+    },
+    "images": ["/products/z-fold5-512.jpg"],
+    "colors": [
+      { "name": "Phantom Black", "hex": "#1A1A1A" },
+      { "name": "Cream", "hex": "#F5E6C8" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 432,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "neo-qled-4k-55",
+    "name": "55\" Neo QLED 4K QN85D",
+    "category": "tvs",
+    "price": 129999,
+    "description": "Compact Neo QLED with stunning 4K and smart features.",
+    "specs": {
+      "Display": "55\" Neo QLED 4K",
+      "Resolution": "3840x2160",
+      "Processor": "NQ4 AI Gen 2",
+      "HDR": "HDR10+, Quantum HDR 24x",
+      "Refresh Rate": "120Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/qn85d-55.jpg"],
+    "colors": [
+      { "name": "Graphite Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 654,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "the-serif-55",
+    "name": "55\" The Serif QLED 4K",
+    "category": "tvs",
+    "price": 109999,
+    "description": "A designer TV with a unique easel design that fits any space.",
+    "specs": {
+      "Display": "55\" QLED 4K",
+      "Resolution": "3840x2160",
+      "Processor": "Quantum Processor 4K",
+      "HDR": "HDR10+, Quantum HDR",
+      "Refresh Rate": "60Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/serif-55.jpg"],
+    "colors": [
+      { "name": "Cloud White", "hex": "#E8E8E8" }
+    ],
+    "rating": 4.4,
+    "reviewCount": 876,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-tab-s9-fe-plus",
+    "name": "Galaxy Tab S9 FE+",
+    "category": "tablets",
+    "price": 52999,
+    "originalPrice": 59999,
+    "description": "Bigger fan edition tablet with 12.4-inch display and S Pen.",
+    "specs": {
+      "Display": "12.4\" TFT LCD, 2560x1600",
+      "Processor": "Exynos 1380",
+      "RAM": "8 GB",
+      "Storage": "128 GB",
+      "Battery": "10090 mAh",
+      "S Pen": "Included"
+    },
+    "images": ["/products/tab-s9-fe-plus.jpg"],
+    "colors": [
+      { "name": "Gray", "hex": "#6A6A6A" },
+      { "name": "Mint", "hex": "#A8D8C8" },
+      { "name": "Lavender", "hex": "#C4B5D4" }
+    ],
+    "rating": 4.3,
+    "reviewCount": 1234,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-book4-pro-14",
+    "name": "Galaxy Book4 Pro 14\"",
+    "category": "laptops",
+    "price": 129999,
+    "description": "Compact 14-inch pro laptop with AMOLED display and long battery.",
+    "specs": {
+      "Display": "14\" 3K AMOLED, 2880x1800, 120Hz",
+      "Processor": "Intel Core Ultra 7 155H",
+      "RAM": "16 GB",
+      "Storage": "512 GB SSD",
+      "GPU": "Intel Arc Graphics",
+      "Battery": "63 Wh"
+    },
+    "images": ["/products/book4-pro-14.jpg"],
+    "colors": [
+      { "name": "Moonstone Gray", "hex": "#8E8E9E" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 432,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-watch6-classic-47",
+    "name": "Galaxy Watch6 Classic 47mm",
+    "category": "watches",
+    "price": 42999,
+    "description": "Larger classic smartwatch with the iconic rotating bezel.",
+    "specs": {
+      "Display": "1.5\" Super AMOLED, 480x480",
+      "Processor": "Exynos W930",
+      "RAM": "2 GB",
+      "Storage": "16 GB",
+      "Battery": "425 mAh",
+      "Water Resistance": "5ATM + IP68"
+    },
+    "images": ["/products/watch6-classic-47.jpg"],
+    "colors": [
+      { "name": "Black", "hex": "#1A1A1A" },
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.5,
+    "reviewCount": 876,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-fit3",
+    "name": "Galaxy Fit3",
+    "category": "watches",
+    "price": 5999,
+    "description": "Lightweight fitness tracker with a vibrant AMOLED display.",
+    "specs": {
+      "Display": "1.6\" AMOLED, 256x402",
+      "Sensors": "Heart rate, accelerometer",
+      "Battery": "Up to 13 days",
+      "Water Resistance": "5ATM + IP68",
+      "Weight": "36.8g",
+      "Connectivity": "Bluetooth 5.3"
+    },
+    "images": ["/products/fit3.jpg"],
+    "colors": [
+      { "name": "Gray", "hex": "#6A6A6A" },
+      { "name": "Pink Gold", "hex": "#D4A0A0" },
+      { "name": "Silver", "hex": "#C0C0C0" }
+    ],
+    "rating": 4.1,
+    "reviewCount": 3456,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "oled-4k-77",
+    "name": "77\" OLED 4K S95D",
+    "category": "tvs",
+    "price": 349999,
+    "description": "Breathtaking 77-inch OLED with anti-glare technology.",
+    "specs": {
+      "Display": "77\" OLED 4K",
+      "Resolution": "3840x2160",
+      "Processor": "NQ4 AI Gen 2",
+      "HDR": "HDR10+, OLED HDR",
+      "Refresh Rate": "120Hz",
+      "Smart TV": "Tizen OS"
+    },
+    "images": ["/products/s95d-77.jpg"],
+    "colors": [
+      { "name": "Graphite Black", "hex": "#2A2A2A" }
+    ],
+    "rating": 4.9,
+    "reviewCount": 123,
+    "inStock": true,
+    "isNew": true,
+    "isFeatured": false
+  },
+  {
+    "id": "galaxy-a25",
+    "name": "Galaxy A25 5G",
+    "category": "smartphones",
+    "price": 29999,
+    "description": "Awesome 5G with Super AMOLED display and triple camera.",
+    "specs": {
+      "Display": "6.5\" Super AMOLED, 2340x1080",
+      "Processor": "Exynos 1280",
+      "RAM": "6 GB",
+      "Storage": "128 GB",
+      "Battery": "5000 mAh",
+      "Camera": "50MP + 8MP + 2MP"
+    },
+    "images": ["/products/a25.jpg"],
+    "colors": [
+      { "name": "Blue Black", "hex": "#1A2A3A" },
+      { "name": "Light Blue", "hex": "#A8C8E8" },
+      { "name": "Yellow", "hex": "#E8D860" }
+    ],
+    "rating": 4.1,
+    "reviewCount": 2345,
+    "inStock": true,
+    "isNew": false,
+    "isFeatured": false
+  }
+]
